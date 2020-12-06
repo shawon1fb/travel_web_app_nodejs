@@ -10,10 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326eeb1b-c3bb-46d3-8e48-e5354a271125" name="Default Changelist" comment="initial">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="326eeb1b-c3bb-46d3-8e48-e5354a271125" name="Default Changelist" comment="initial 2gg">
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users_routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <workItem from="1606677966578" duration="850000" />
       <workItem from="1607089382155" duration="200000" />
       <workItem from="1607282812829" duration="402000" />
-      <workItem from="1607283297441" duration="348000" />
+      <workItem from="1607283297441" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1606678011858</created>
@@ -83,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606678011858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial 2">
+      <created>1607283719893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607283719893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="initial 2" />
+    <MESSAGE value="initial 2gg" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial 2gg" />
   </component>
 </project>
