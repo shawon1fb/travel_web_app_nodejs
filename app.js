@@ -9,7 +9,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 const log = require('./utils/logger')
-require('./db/mongoos')
+//require('./db/mongoos')
 
 var tourRouter = require('./routes/tour_routes');
 var usersRouter = require('./routes/users_routes');
@@ -27,7 +27,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 
-app.use('/', tourRouter);
+//app.use('/', tourRouter);
 app.use('/users', usersRouter);
 
 // catch 404 and forward to error handler
@@ -36,7 +36,7 @@ app.use(function (req, res, next) {
 });
 
 //log.data(process.env.toString())
-console.log(process.env.PORT);
+//console.log(process.env.PORT);
 // error handler
 app.use(function (err, req, res, next) {
     // set locals, only providing error in development
